@@ -104,6 +104,7 @@ packages_select_by_deps:
   - moveit-servo
   - moveit-task-constructor-demo
   - moveit-visual-tools
+  - mujoco_ros2_control_demos
   - nav2_bringup
   - navigation2
   - nmea-navsat-driver
